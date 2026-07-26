@@ -2,8 +2,6 @@
 
 This repository has two java programs:
 
-## Conversion:
-It converts any infix expression to postfix
+`Conversion.java`: It converts any infix expression to postfix
 
-## Evaluating Postfix:
-It evaluates any postfix exprerssion
+`Evaluating Postfix.java`: It evaluates any postfix exprerssion
